@@ -4,4 +4,5 @@ BRANCH BARU
 - belajar branch
 - menit 18
  *ini menambahkan dari kinerja fitur A
+ *belajar terus
 *menambahkan branchbaru
