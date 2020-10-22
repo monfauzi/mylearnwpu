@@ -3,4 +3,6 @@ BRANCH BARU
 - ini video ke-3
 - belajar branch
 - menit 18
+ *ini menambahkan dari kinerja fitur A
+ *belajar terus
 *menambahkan branchbaru
