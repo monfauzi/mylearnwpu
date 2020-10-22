@@ -2,4 +2,5 @@ BRANCH BARU
 - ini branch baru
 - ini video ke-3
 - belajar branch
+- menit 18
 *menambahkan branchbaru
